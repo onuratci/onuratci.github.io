@@ -1,0 +1,73 @@
+# Site settings
+title: Onur Atci
+name: Onur Atci
+email: onuratci@icloud.com
+description: >-
+  Engineering Manager & Senior Software Developer with expertise in microservices,
+  cloud-native solutions, and team leadership. Sharing insights on software development,
+  technology, and engineering management.
+
+baseurl: ""
+url: "https://onuratci.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+permalink: /blog/:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - about.md
+  - blog.md
+
+# Social links
+github_username: onuratci
+linkedin_username: onuratci
+
+# Author
+author:
+  name: Onur Atci
+  email: onuratci@icloud.com
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - Onur_ATCI_Resume.pdf
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Onur Atci"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
