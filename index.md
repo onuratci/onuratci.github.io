@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="hero">
-  <h1>Onur Atci</h1>
+  
   <p class="hero-subtitle">Engineering Manager & Senior Software Developer</p>
   <p class="hero-description">15+ years of experience leading teams and building scalable, cloud-native solutions</p>
   
