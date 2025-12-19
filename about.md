@@ -66,6 +66,12 @@ Orchestrated ITSM service migration and optimization on AWS, improving error det
 ### Senior Software Developer - Innova Bilişim (2015-2017)
 Contributed to distributed, active-active redundant systems for fraud detection, ensuring prevention of fraudulent calls through real-time analysis.
 
+###  Software Developer - Cyberwise (Biznet) Bilişim (2012-2015)
+Developed Registered Email System using Java Crypto API,  Open Source email components (Dovecot, postfix, clamav, Java Mail API) and integrated with CRM systems to enhance end user experience. 
+
+###  Android Developer - Basari Mobile (2011-2012)
+Development and maintenance of Samsung and Turkcell embeded Android applications. Contributed to development of Samsung Ebook reader, Turkcell News and Weather applications
+
 ## Interests & Focus Areas
 
 - **Microservices Architecture**: Designing scalable, distributed systems
