@@ -26,6 +26,9 @@ plugins:
 header_pages:
   - about.md
   - blog.md
+  - contact.md
+  - privacy.md
+  - terms.md
 
 # Social links
 github_username: onuratci
